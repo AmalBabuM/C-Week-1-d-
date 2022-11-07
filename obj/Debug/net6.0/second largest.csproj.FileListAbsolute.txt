@@ -1,0 +1,15 @@
+C:\Users\91999\OneDrive\Desktop\Bro Assignment\WEEK 3\second largest\bin\Debug\net6.0\second largest.exe
+C:\Users\91999\OneDrive\Desktop\Bro Assignment\WEEK 3\second largest\bin\Debug\net6.0\second largest.deps.json
+C:\Users\91999\OneDrive\Desktop\Bro Assignment\WEEK 3\second largest\bin\Debug\net6.0\second largest.runtimeconfig.json
+C:\Users\91999\OneDrive\Desktop\Bro Assignment\WEEK 3\second largest\bin\Debug\net6.0\second largest.dll
+C:\Users\91999\OneDrive\Desktop\Bro Assignment\WEEK 3\second largest\bin\Debug\net6.0\second largest.pdb
+C:\Users\91999\OneDrive\Desktop\Bro Assignment\WEEK 3\second largest\obj\Debug\net6.0\second largest.csproj.AssemblyReference.cache
+C:\Users\91999\OneDrive\Desktop\Bro Assignment\WEEK 3\second largest\obj\Debug\net6.0\second largest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91999\OneDrive\Desktop\Bro Assignment\WEEK 3\second largest\obj\Debug\net6.0\second largest.AssemblyInfoInputs.cache
+C:\Users\91999\OneDrive\Desktop\Bro Assignment\WEEK 3\second largest\obj\Debug\net6.0\second largest.AssemblyInfo.cs
+C:\Users\91999\OneDrive\Desktop\Bro Assignment\WEEK 3\second largest\obj\Debug\net6.0\second largest.csproj.CoreCompileInputs.cache
+C:\Users\91999\OneDrive\Desktop\Bro Assignment\WEEK 3\second largest\obj\Debug\net6.0\second largest.dll
+C:\Users\91999\OneDrive\Desktop\Bro Assignment\WEEK 3\second largest\obj\Debug\net6.0\refint\second largest.dll
+C:\Users\91999\OneDrive\Desktop\Bro Assignment\WEEK 3\second largest\obj\Debug\net6.0\second largest.pdb
+C:\Users\91999\OneDrive\Desktop\Bro Assignment\WEEK 3\second largest\obj\Debug\net6.0\second largest.genruntimeconfig.cache
+C:\Users\91999\OneDrive\Desktop\Bro Assignment\WEEK 3\second largest\obj\Debug\net6.0\ref\second largest.dll
